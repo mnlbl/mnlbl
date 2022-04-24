@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mnlbl
+- 👀 I’m interested in mathematics and coding.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on various projects and go out of my comfort zone.
+- 📫 You can reach out to me on <a href="https://www.linkedin.com/in/manelbaali/">Linkedin</a>
