@@ -28,7 +28,7 @@
     I'm Manel !
 </h3>
 
-- 👋 Hi, I’m @mnlbl
+
 - 👀 I’m interested in mathematics and coding.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on various projects and go out of my comfort zone.
