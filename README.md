@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnlbl
+- 👋 Hi, I’m Manel !
 - 👀 I’m interested in mathematics and coding.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on various projects and go out of my comfort zone.
