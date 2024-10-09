@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Manel !
-- 👀 I’m interested in cybersecurity, AI and business analytics.
+- 👀 I’m interested in cybersecurity, AI, data and business analytics.
 - 💞️ I’m looking to collaborate on various projects and go out of my comfort zone.
 - 📫 You can reach out to me on <a href="https://www.linkedin.com/in/manelbaali/">Linkedin</a>
